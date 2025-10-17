@@ -1,1 +1,1 @@
-Projetos do curso Linux Fundamentls da DIO
+Projetos do curso Linux Fundamentals da DIO
