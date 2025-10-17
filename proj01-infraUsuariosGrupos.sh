@@ -1,3 +1,4 @@
+#!/bin/bash
 # Script para criar infraestrutura de usuarios, grupo de usuários e diretorios e permissões.
 #
 # primeiro mudar para root, só depois executar script.
